@@ -1,0 +1,31 @@
+cume = [
+    ['MF65748', 'MF67417', 'C9151740', 'slic', 'FW688358', 'MA47514', 'ZLS', 'v7r4m0f', 'final', 'released', '2019-05-15', '0', 'LIC-INCORROUT SMB3 KERBEROS CONNECTIONS FAIL WHEN SIGNING IS'],
+    ['MF65804', 'NoSuper', 'C9151740', 'slic', 'MA47500', 'MA47500', 'ZLS', 'v7r4m0f', 'final', 'released', '2019-05-16', '0', 'LIC-UNPRED IBM I NETSERVER STOPS ACCEPTING INCOMING REQUESTS'], 
+    ['MF65867', 'MF68686', 'C9151740', 'slic', 'MA47529', 'MA47529', 'ZLS', 'v7r4m0f', 'final', 'released', '2019-05-17', '0', 'LIC-INCORROUT-UNPRED IBM i NETSERVER HUNG'],
+    ['MF66116', 'MF68686', 'C9151740', 'slic', 'FW690235', 'MA47649', 'ZLS', 'v7r4m0f', 'final', 'released', '2019-05-21', '0', 'LIC-OTHER INTERNAL EXTENSIONS FOR MAINTAINABILITY'],
+    ['SI69197', 'SI76538', 'C9151740', 'xpf', 'FW688429', 'SE70714', 'ZLC', 'v7r4m0f.xpf', 'final', 'released', '2019-05-16', '0', 'OSP-OTHER-INCORROUT QNTC fails when using Kerberos and SMB3.'],
+    ['SI69466', 'SI76538', 'C9151740', 'xpf', 'FW688571', 'SE70832', 'ZLC', 'v7r4m0f.xpf', 'final', 'released', '2019-05-17', '0', 'OSP-OTHER-INCORROUT MSGCPFA0A9 on QNTC Negotiate Failure'],
+    ['SI69466', 'SI76538', 'C9151740', 'xpf', 'FW687962', 'SE70831', 'ZLC', 'v7r4m0f.xpf', 'final', 'released', '2019-05-17', '0', 'OSP-OTHER-INCORROUT MSGCPFA0D4 Accessing Symlink in QNTC'],
+    ['SI69466', 'SI76538', 'C9151740', 'xpf', 'FW687966', 'SE70820', 'ZLC', 'v7r4m0f.xpf', 'final', 'released', '2019-05-17', '0', 'OSP-OTHER Internal Extensions for Maintainability'],
+    ['SI69808', 'SI76538', 'C9151740', 'xpf', 'SE70846', 'SE70846', 'ZLC', 'v7r4m0f.xpf', 'final', 'released', '2019-05-20', '0', 'OSP-UNPRED QNTC Using SMB2 Protocol'],
+    ['SI69593', 'SI76294', 'C9151740', 'xpf', 'FW690000', 'SE70979', 'ZLS', 'v7r4m0f.xpf', 'final', 'released', '2019-05-17', '0', 'OSP-OTHER Update Samba Support for IBM i PASE to 3.6.25j'],
+    ['MF66129', 'MF68686', 'C9304740', 'slic', 'MA47694', 'MA47694', 'ZLS', 'v7r4m0f', 'final', 'released', '2019-07-03', '43', 'LIC-UNPRED IBM I NETSERVER CONNECTIONS LEAVE SOCKETS IN ERRO'],
+    ['MF66386', 'MF66879', 'C9304740', 'slic', 'MA47806', 'MA47806', 'ZLS', 'v7r4m0f', 'final', 'released', '2019-07-03', '42', 'OSP-INCORROUT NETSERVER SMB2_READ FAILS WITH STATUS_INVALID_'],
+    ['SI70518', 'SI70746', 'C9304740', 'sutl', 'FW693054', 'SE71707', 'ZLS', 'v7r4m0f.sutl', 'final', 'released', '2019-07-23', '72', 'QUSRTOOL Add SMB3 configuration options to GO NETS'],
+    ['SI70746', 'NoSuper', 'C9304740', 'sutl', 'FW693928', 'SE71902', 'ZLS', 'v7r4m0f.sutl', 'final', 'released', '2019-08-12', '66', 'QUSRTOOL SMB3 Updates to GO NETS Utility'],
+    ['MF66534', 'MF66879', 'C0121740', 'slic', 'MA47861', 'MA47861', 'ZLS', 'v7r4m0f', 'final', 'released', '2019-09-09', '36', 'LIC-INCORROUT RENAME FAILS WITH 0X80070091 OVER NON-EMPTY DI'],
+    ['MF66642', 'MF68686', 'C0121740', 'slic', 'MA47959', 'MA47959', 'ZLS', 'v7r4m0f', 'final', 'released', '2019-10-24', '98', 'LIC-INCORROUT LARGE FILE DOWNLOAD ISSUES, LIC LOG 4400 B00F'],
+    ['MF66879', 'NoSuper', 'C0121740', 'slic', 'MA48085', 'MA48085', 'ZLS', 'v7r4m0f', 'final', 'released', '2020-02-04', '129', 'LIC-OTHER-UNPRED ALL USERS GET ACCESS DENIED ON MAPPED DRIVE'],
+    ['MF66879', 'NoSuper', 'C0121740', 'slic', 'FW697246', 'MA48090', 'ZLS', 'v7r4m0f', 'final', 'released', '2020-02-04', '129', 'LIC-INCORROUT VL4400100D LIC Log on SMB2 Set_Info'],
+    ['MF67062', 'MF68686', 'C0121740', 'slic', 'MA48182', 'MA48182', 'ZLS', 'v7r4m0f', 'final', 'released', '2020-03-06', '94', 'LIC-INCORROUT IBM i NETSERVER SMB2 UNEXPECTED NETWORK ERROR'],
+    ['SI71324', 'SI76538', 'C0121740', 'xpf', 'SE72276', 'SE72276', 'ZLC', 'v7r4m0f.xpf', 'final', 'released', '2019-10-29', '46', 'OSP-OTHER-PERFM QNTC SPLITS 32K WRITES IN TWO PARTS'], 
+    ['SI72042', 'SI76538', 'C0121740', 'xpf', 'FW697734', 'SE72748', 'ZLC', 'v7r4m0f.xpf', 'final', 'released', '2020-01-27', '835', 'OSP-OTHER-UNPRED QNTC errors'],
+    ['SI71638', 'SI76294', 'C0121740', 'xpf', 'FW696984', 'SE72561', 'ZLS', 'v7r4m0f.xpf', 'final', 'released', '2019-11-26', '50', 'OSP-OTHER Update Samba Support for IBM i PASE to 3.6.25k'],
+    ['SI73186', 'SI76538', 'C0303740', 'xpf', 'SE73496', 'SE73496', 'ZLC', 'v7r4m0f.xpf', 'final', 'released', '2020-05-12', '386', 'OSP-OTHER-MSGC2M1212 QNTC attempt to access a server that is'],
+    ['SI72606', 'SI76074', 'C0303740', 'xpf', 'SE73116', 'SE73116', 'ZLS', 'v7r4m0f.xpf', 'final', 'released', '2020-04-20', '64', 'OSP-OTHER-INCORROUT BLANK SHARE NAME APPEARS AFTER CONVERSIO'],
+    ['MF67417', 'NoSuper', 'C1091740', 'slic', 'MA48382', 'MA48382', 'ZLS', 'v7r4m0f', 'final', 'released', '2020-09-24', '147', 'LIC-OTHER-UNPRED ALL USERS UNABLE TO MAP NETSERVER DRIVES'],
+    ['MF67675', 'NoSuper', 'C1091740', 'slic', 'FW703344', 'MA48472', 'FS', 'v7r4m0f', 'final', 'released', '2020-09-29', '68', 'LIC-INCORROUT IBM i NetServer Access Fails to Mirrored IASP'],
+    ['SI74697', 'SI76294', 'C1091740', 'xpf', 'FW707221', 'SE74646', 'ZLS', 'v7r4m0f.xpf', 'final', 'released', '2020-11-09', '176', 'OSP-OTHER Update Samba Support for IBM i PASE to 3.6.25l']
+    ]
+
+    
